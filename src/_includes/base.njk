@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} — {% endif %}You Know Jack</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="site-title">You Know Jack</a>
+      <nav>
+        <a href="/">Posts</a>
+        <a href="https://jackhumphrey.me">jackhumphrey.me</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      &copy; Jack Humphrey. Built with <a href="https://www.11ty.dev/">Eleventy</a>.
+    </div>
+  </footer>
+</body>
+</html>

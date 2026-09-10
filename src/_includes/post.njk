@@ -1,0 +1,36 @@
+---
+layout: base.njk
+---
+<article>
+  <header class="post-header">
+    <h1>{{ title }}</h1>
+    <p class="post-meta">
+      {{ page.date | date("MMMM d, yyyy") }}
+      {% if categories and categories.length %}
+        &mdash;
+        {% for cat in categories %}<span class="post-cat">{{ cat }}</span>{% if not loop.last %}, {% endif %}{% endfor %}
+      {% endif %}
+    </p>
+  </header>
+  <div class="post-body">
+    {{ content | safe }}
+  </div>
+  {% if original_url %}
+  <p class="post-original">Originally published on <a href="{{ original_url }}">youknowjack.fivewells.com</a></p>
+  {% endif %}
+
+  {% set nav = collections.posts | getPrevNext(page.url) %}
+  <nav class="post-nav">
+    <span class="post-nav-prev">
+      {% if nav.prev %}
+        &larr; <a href="{{ nav.prev.url }}">{{ nav.prev.data.title }}</a>
+      {% endif %}
+    </span>
+    <a href="/" class="post-nav-all">All posts</a>
+    <span class="post-nav-next">
+      {% if nav.next %}
+        <a href="{{ nav.next.url }}">{{ nav.next.data.title }}</a> &rarr;
+      {% endif %}
+    </span>
+  </nav>
+</article>
