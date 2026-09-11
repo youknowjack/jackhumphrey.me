@@ -7,7 +7,7 @@ original_url: "https://youknowjack.fivewells.com/archives/2005/05/my_new_wheels_
 
 A week ago last Friday, I got a scooter. It rocks.
 
-[![XOOTR MG](http://www.fivewells.com/images/mg-composite-small.jpg)](http://www.xootr.com/xootr/mg.shtml)
+[![XOOTR MG](https://web.archive.org/web/20260420190802im_/http://www.fivewells.com/images/mg-composite-small.jpg)](https://web.archive.org/web/20260420190802/http://www.xootr.com/xootr/mg.shtml)
 
 It's the Xooter MG (pronounced "zootur emgee"). I love it, I've ridden it to work and back home several times. It's a lot of fun and better exercise than sitting on the subway.
 
