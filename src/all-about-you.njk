@@ -1,0 +1,394 @@
+---
+permalink: /all-about-you/
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All About You</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Caveat:wght@400;700&display=swap">
+  <style>
+    /* ── Tokens ── */
+    :root {
+      --bg:        #C8BEA8;
+      --surface:   #EDE6D2;
+      --paper:     #F6EFD8;
+      --ink:       #4A3A88;
+      --hand:      #111018;
+      --ui-text:   #2A2318;
+      --ui-muted:  #776A56;
+      --ui-border: rgba(48,36,20,0.18);
+      --btn-bg:    #4A3A88;
+      --btn-fg:    #F6EFD8;
+      --btn-ghost: rgba(74,58,136,0.10);
+      --shadow:    rgba(0,0,0,0.22);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg:        #171310;
+        --surface:   #221D14;
+        --paper:     #F6EFD8;
+        --ink:       #4A3A88;
+        --hand:      #111018;
+        --ui-text:   #D0C5AE;
+        --ui-muted:  #8A7E68;
+        --ui-border: rgba(210,195,160,0.14);
+        --btn-bg:    #7060B8;
+        --btn-fg:    #F6EFD8;
+        --btn-ghost: rgba(112,96,184,0.14);
+        --shadow:    rgba(0,0,0,0.5);
+      }
+    }
+    :root[data-theme="dark"] {
+      --bg:        #171310;
+      --surface:   #221D14;
+      --paper:     #F6EFD8;
+      --ink:       #4A3A88;
+      --hand:      #111018;
+      --ui-text:   #D0C5AE;
+      --ui-muted:  #8A7E68;
+      --ui-border: rgba(210,195,160,0.14);
+      --btn-bg:    #7060B8;
+      --btn-fg:    #F6EFD8;
+      --btn-ghost: rgba(112,96,184,0.14);
+      --shadow:    rgba(0,0,0,0.5);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--ui-text);
+      font-family: 'Special Elite', 'Courier New', monospace;
+      min-height: 100vh;
+      padding: 36px 20px;
+      padding-block: 36px;
+    }
+
+    .hd { max-width: 960px; margin: 0 auto 36px; text-align: center; }
+    .hd h1 {
+      font-size: clamp(2.2rem, 6vw, 3.8rem);
+      letter-spacing: -0.01em;
+      line-height: 1.1;
+      color: var(--ui-text);
+      text-wrap: balance;
+      margin-bottom: 10px;
+    }
+    .hd .sub {
+      color: var(--ui-muted);
+      font-size: 0.88rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 40px;
+      max-width: 960px;
+      margin: 0 auto;
+      align-items: start;
+    }
+    @media (max-width: 680px) {
+      .grid { grid-template-columns: 1fr; }
+      .preview { order: -1; }
+    }
+
+    .form-panel {
+      background: var(--surface);
+      border-radius: 2px;
+      padding: 28px 24px 24px;
+      display: flex;
+      flex-direction: column;
+    }
+    .form-heading {
+      font-size: 0.75rem;
+      letter-spacing: 0.10em;
+      text-transform: uppercase;
+      color: var(--ui-muted);
+      margin-bottom: 22px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--ui-border);
+    }
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      padding: 11px 0;
+      border-bottom: 1px solid var(--ui-border);
+    }
+    .field:last-of-type { border-bottom: none; }
+    .field-lbl {
+      font-size: 0.68rem;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      color: var(--ui-muted);
+      line-height: 1;
+    }
+    .field input {
+      background: transparent;
+      border: none;
+      outline: none;
+      font-family: 'Caveat', cursive;
+      font-weight: 700;
+      font-size: 1.35rem;
+      color: var(--ui-text);
+      padding: 0;
+      width: 100%;
+    }
+    .field input::placeholder {
+      color: var(--ui-muted);
+      font-weight: 400;
+      font-style: italic;
+      opacity: 0.55;
+    }
+    .field input:focus { color: var(--ink); }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    button {
+      font-family: 'Special Elite', monospace;
+      font-size: 0.83rem;
+      letter-spacing: 0.05em;
+      cursor: pointer;
+      border: 1px solid var(--ui-border);
+      border-radius: 2px;
+      padding: 9px 18px;
+      transition: opacity 0.12s, background 0.12s;
+    }
+    .btn-primary { background: var(--btn-bg); color: var(--btn-fg); border-color: var(--btn-bg); }
+    .btn-primary:hover { opacity: 0.83; }
+    .btn-ghost { background: var(--btn-ghost); color: var(--ui-muted); border-color: transparent; }
+    .btn-ghost:hover { color: var(--ui-text); }
+
+    .preview { display: flex; flex-direction: column; align-items: center; gap: 14px; }
+    .sheet-wrap {
+      transform: rotate(-0.6deg);
+      box-shadow: 3px 4px 0 rgba(0,0,0,0.07), 7px 10px 28px var(--shadow);
+      flex-shrink: 0;
+    }
+    #sheet { display: block; max-width: 100%; height: auto; }
+    .dl-note { font-size: 0.75rem; color: var(--ui-muted); font-style: italic; letter-spacing: 0.03em; }
+  </style>
+</head>
+<body>
+
+<header class="hd">
+  <h1>All About You</h1>
+  <p class="sub">A fill-in booklet for grownups &mdash; after Jack's pre-school original, c.&thinsp;1975</p>
+</header>
+
+<main>
+  <div class="grid">
+    <section class="form-panel">
+      <div class="form-heading">Fill it in</div>
+      <form id="form" autocomplete="off"></form>
+      <div class="actions">
+        <button type="button" id="dl-btn" class="btn-primary">Save My Sheet</button>
+        <button type="button" id="jack-btn" class="btn-ghost">Jack's answers</button>
+        <button type="button" id="clear-btn" class="btn-ghost">Clear</button>
+      </div>
+    </section>
+
+    <section class="preview">
+      <div class="sheet-wrap">
+        <canvas id="sheet"></canvas>
+      </div>
+      <span class="dl-note">yours to keep</span>
+    </section>
+  </div>
+</main>
+
+<script>
+const FIELDS = [
+  { key:'name',      label:'I am',                          before:'I am',                         after:null,            ph:'me' },
+  { key:'lives',     label:'I live at',                     before:'I live at',                    after:null,            ph:'Country Club Acres' },
+  { key:'phone',     label:'My phone number is',            before:'My phone number is',           after:null,            ph:'646-9118' },
+  { key:'happy',     label:'I feel happy when',             before:'I feel happy when',            after:null,            ph:"I don't have to work." },
+  { key:'afraid',    label:'I am afraid of',                before:'I am afraid of',               after:null,            ph:'lions' },
+  { key:'mad',       label:'I get mad when',                before:'I get mad when',               after:null,            ph:"my sister won't let me into her room." },
+  { key:'sad',       label:'Makes me sad',                  before:null,                           after:'makes me sad.', ph:'Falling down and hurting my knee' },
+  { key:'like',      label:'I like',                        before:'I like',                       after:null,            ph:'chocolate cake' },
+  { key:'try',       label:'Sometimes I try to',            before:'Sometimes I try to',           after:null,            ph:'work' },
+  { key:'favorites', label:'My favorite things to do are',  before:'My favorite things to do are', after:null,            ph:'playing and inviting someone over to my house' },
+];
+
+const JACKS = { name:'me', lives:'Country Club Acres', phone:'646-9118',
+  happy:"I don't have to work.", afraid:'lions', mad:"my sister won't let me into her room.",
+  sad:'Falling down and hurting my knee', like:'chocolate cake', try:'work',
+  favorites:'playing and inviting someone over to my house' };
+
+// Build form
+const form = document.getElementById('form');
+FIELDS.forEach(f => {
+  const wrap = document.createElement('div');
+  wrap.className = 'field';
+  const lbl = document.createElement('div');
+  lbl.className = 'field-lbl';
+  lbl.textContent = f.label;
+  const inp = document.createElement('input');
+  inp.type = 'text';
+  inp.dataset.key = f.key;
+  inp.placeholder = f.ph;
+  inp.setAttribute('autocomplete', 'off');
+  wrap.appendChild(lbl);
+  wrap.appendChild(inp);
+  form.appendChild(wrap);
+});
+
+// Canvas setup
+const DPR = Math.min(window.devicePixelRatio || 1, 2);
+const CW = 460, CH = 840;
+const canvas = document.getElementById('sheet');
+canvas.width  = CW * DPR;
+canvas.height = CH * DPR;
+canvas.style.width  = CW + 'px';
+canvas.style.height = CH + 'px';
+const ctx = canvas.getContext('2d');
+ctx.scale(DPR, DPR);
+
+const PAPER  = '#F6EFD8';
+const INK    = '#4A3A88';
+const HCOLOR = '#111018';
+const LM = 34, RM = 34, TW = CW - LM - RM;
+const PTSIZE = 12.5, ATSIZE = 20;
+const ROW_H  = 76, A_OFF = 30, FIRST_Y = 102;
+const PTFONT = `${PTSIZE}px "Special Elite"`;
+const AFONT  = `bold ${ATSIZE}px "Caveat"`;
+
+// Paper noise — generated once, reused
+const noiseC = document.createElement('canvas');
+noiseC.width = CW; noiseC.height = CH;
+const nCtx = noiseC.getContext('2d');
+nCtx.fillStyle = PAPER;
+nCtx.fillRect(0, 0, CW, CH);
+const nd = nCtx.createImageData(CW, CH);
+for (let i = 0; i < nd.data.length; i += 4) {
+  const r = Math.random();
+  if (r > 0.97) { nd.data[i] = nd.data[i+1] = nd.data[i+2] = 0; nd.data[i+3] = Math.floor(r * 120); }
+  else { nd.data[i+3] = 0; }
+}
+nCtx.putImageData(nd, 0, 0);
+
+function truncate(text, maxW) {
+  ctx.font = AFONT;
+  if (ctx.measureText(text).width <= maxW) return text;
+  let t = text;
+  while (t.length > 1 && ctx.measureText(t + '…').width > maxW) t = t.slice(0, -1);
+  return t + '…';
+}
+
+function drawSheet() {
+  const vals = {};
+  FIELDS.forEach(f => {
+    const el = form.querySelector(`[data-key="${f.key}"]`);
+    vals[f.key] = el ? el.value.trim() : '';
+  });
+
+  // Paper
+  ctx.fillStyle = PAPER;
+  ctx.fillRect(0, 0, CW, CH);
+  ctx.drawImage(noiseC, 0, 0, CW, CH);
+  const vig = ctx.createRadialGradient(CW/2, CH/2, CW*0.25, CW/2, CH/2, CW*0.85);
+  vig.addColorStop(0, 'rgba(0,0,0,0)');
+  vig.addColorStop(1, 'rgba(0,0,0,0.07)');
+  ctx.fillStyle = vig;
+  ctx.fillRect(0, 0, CW, CH);
+
+  // Title
+  ctx.textAlign = 'center';
+  ctx.font = `bold 26px "Special Elite"`;
+  ctx.fillStyle = INK;
+  ctx.fillText('All About Me', CW/2, 56);
+  ctx.strokeStyle = INK;
+  ctx.lineWidth = 1.4; ctx.globalAlpha = 0.75;
+  ctx.beginPath(); ctx.moveTo(LM, 68); ctx.lineTo(CW-RM, 68); ctx.stroke();
+  ctx.lineWidth = 0.5;
+  ctx.beginPath(); ctx.moveTo(LM, 73); ctx.lineTo(CW-RM, 73); ctx.stroke();
+  ctx.globalAlpha = 1;
+  ctx.textAlign = 'left';
+
+  // Fields
+  FIELDS.forEach((f, i) => {
+    const py = FIRST_Y + i * ROW_H;
+    const ay = py + A_OFF;
+    const labelText = f.before || f.after;
+
+    // Prompt label
+    ctx.font = PTFONT;
+    ctx.fillStyle = INK;
+    ctx.globalAlpha = 0.82;
+    ctx.fillText(labelText, LM, py);
+    ctx.globalAlpha = 1;
+
+    // Answer or underline
+    const ans = vals[f.key];
+    if (ans) {
+      ctx.font = AFONT;
+      ctx.fillStyle = HCOLOR;
+      ctx.fillText(truncate(ans, TW), LM, ay);
+    } else {
+      ctx.strokeStyle = INK;
+      ctx.lineWidth = 0.9;
+      ctx.globalAlpha = 0.32;
+      ctx.beginPath();
+      ctx.moveTo(LM, ay + 5);
+      ctx.lineTo(LM + Math.min(TW, 200), ay + 5);
+      ctx.stroke();
+      ctx.globalAlpha = 1;
+    }
+
+    // Row separator
+    if (i < FIELDS.length - 1) {
+      ctx.strokeStyle = INK;
+      ctx.lineWidth = 0.4;
+      ctx.globalAlpha = 0.16;
+      ctx.beginPath();
+      ctx.moveTo(LM, py + ROW_H - 6);
+      ctx.lineTo(CW - RM, py + ROW_H - 6);
+      ctx.stroke();
+      ctx.globalAlpha = 1;
+    }
+  });
+
+  // Bottom rule
+  ctx.strokeStyle = INK;
+  ctx.lineWidth = 1;
+  ctx.globalAlpha = 0.35;
+  ctx.beginPath(); ctx.moveTo(LM, CH-22); ctx.lineTo(CW-RM, CH-22); ctx.stroke();
+  ctx.globalAlpha = 1;
+}
+
+document.getElementById('dl-btn').addEventListener('click', () => {
+  const a = document.createElement('a');
+  a.download = 'all-about-me.png';
+  a.href = canvas.toDataURL('image/png');
+  a.click();
+});
+
+document.getElementById('jack-btn').addEventListener('click', () => {
+  FIELDS.forEach(f => {
+    const el = form.querySelector(`[data-key="${f.key}"]`);
+    if (el) el.value = JACKS[f.key];
+  });
+  drawSheet();
+});
+
+document.getElementById('clear-btn').addEventListener('click', () => {
+  form.querySelectorAll('input').forEach(i => i.value = '');
+  drawSheet();
+});
+
+form.addEventListener('input', drawSheet);
+document.fonts.ready.then(drawSheet);
+</script>
+</body>
+</html>
