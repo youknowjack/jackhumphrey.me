@@ -11,7 +11,7 @@ categories:
   - "tv"
 ---
 
-Yes, I'd been to the NY Comic-Con in [2006](/blog/ny-comic-con/) and [2007](/blog/ny-comic-con-20-1/) and had a great time, but of course the NY con lives in the shadow of the legendary San Diego Comic-Con. Now that I'm in LA, I finally got to see what it is all about.
+Yes, I'd been to the NY Comic-Con in [2006](/blog/ny-comic-con-2006/) and [2007](/blog/ny-comic-con-2007/) and had a great time, but of course the NY con lives in the shadow of the legendary San Diego Comic-Con. Now that I'm in LA, I finally got to see what it is all about.
 
 My friend G and I planned our weekend trip to the event back in April, booking a most excellent hotel on hotwire. G works in an industry that allows him to get free professional passes, which he did on our behalf. (Already feeling pretty cool.)
 

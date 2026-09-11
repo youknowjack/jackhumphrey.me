@@ -7,7 +7,7 @@ categories:
   - "Junior"
 ---
 
-You can now read the articles about [our film production](/blog/long-time-no-bl/) that appeared in local newspapers while we were in Brownwood:
+You can now read the articles about [our film production](/blog/long-time-no-blog/) that appeared in local newspapers while we were in Brownwood:
 
 [Brownwood Bulletin, July 25, 2005](http://juniorfilm.com/bulletin.html)
 
