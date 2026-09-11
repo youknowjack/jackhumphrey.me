@@ -4,6 +4,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/audio");
+  eleventyConfig.addPassthroughCopy("src/*.html");
+  eleventyConfig.addPassthroughCopy("src/*.pdf");
+  eleventyConfig.addPassthroughCopy("src/*.jpg");
+  eleventyConfig.addPassthroughCopy("src/*.png");
+  eleventyConfig.addPassthroughCopy("src/talks");
   eleventyConfig.addPassthroughCopy("src/ttwife");
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
