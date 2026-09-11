@@ -9,9 +9,9 @@ categories:
 
 You can now read the articles about [our film production](/blog/long-time-no-blog/) that appeared in local newspapers while we were in Brownwood:
 
-[Brownwood Bulletin, July 25, 2005](http://juniorfilm.com/bulletin.html)
+[Brownwood Bulletin, July 25, 2005](https://web.archive.org/web/20110207120625/http://juniorfilm.com/bulletin.html)
 
-[Abilene Reporter News, July 28, 2005](http://juniorfilm.com/reporternews.html)
+[Abilene Reporter News, July 28, 2005](https://web.archive.org/web/20110207120625/http://juniorfilm.com/reporternews.html)
 
 You can also sign up to receive email updates about the film by sending a blank email message to [updates-subscribe@juniorfilm.com](mailto:updates-subscribe@juniorfilm.com).
 
