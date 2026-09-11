@@ -16,7 +16,7 @@ layout: base.njk
     {{ content | safe }}
   </div>
   {% if original_url %}
-  <p class="post-original">Originally published on <a href="{{ original_url }}">youknowjack.fivewells.com</a></p>
+  <p class="post-original">Originally published on <a href="https://web.archive.org/web/20260420190631/{{ original_url | dirUrl }}">youknowjack.fivewells.com</a></p>
   {% endif %}
 
   {% set nav = collections.posts | getPrevNext(page.url) %}
