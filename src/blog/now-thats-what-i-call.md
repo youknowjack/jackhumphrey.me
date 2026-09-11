@@ -5,4 +5,4 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2005/01/now_thats_what.html"
 ---
 
-[Patches The Horse](http://jbreeves.com/fred/PatchestheHorse.wmv)
+[Patches The Horse](https://web.archive.org/web/20050121000000/http://jbreeves.com/fred/PatchestheHorse.wmv)

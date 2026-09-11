@@ -5,4 +5,4 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2005/02/anyone_on_hello.html"
 ---
 
-I love [Picasa](http://www.picasa.com/), and I've started playing around with its "photo-sharing meets IM" client called [Hello](http://www.hello.com/). If you're on it, or try it out, add me as a friend: screen name ljackh.
+I love [Picasa](https://web.archive.org/web/20050210000000/http://www.picasa.com/), and I've started playing around with its "photo-sharing meets IM" client called [Hello](https://web.archive.org/web/20050210000000/http://www.hello.com/). If you're on it, or try it out, add me as a friend: screen name ljackh.

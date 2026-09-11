@@ -7,4 +7,4 @@ original_url: "https://youknowjack.fivewells.com/archives/2005/01/i_think_ive_se
 
 From National Geographic News:
 
-[Animal-Human Hybrids Spark Controversy](http://news.nationalgeographic.com/news/2005/01/0125_050125_chimeras.html)
+[Animal-Human Hybrids Spark Controversy](https://web.archive.org/web/20050127000000/http://news.nationalgeographic.com/news/2005/01/0125_050125_chimeras.html)

@@ -11,4 +11,4 @@ Web service Fontifier creates a computer font of your own handwriting.
 
 Write down the alphabet on a Fontifier-provided template, scan it in, upload to the site, and preview your custom font. If you like it's yours for nine bucks (Mac or PC.) Pretty neat way to personalize images, computer presentations or web pages.
 
-[Fontifier](http://www.fontifier.com/) via [Lifehacker](http://www.lifehacker.com/software/productivity/your-own-handwriting-as-a-font-032705.php)
+[Fontifier](https://web.archive.org/web/20050210000000/http://www.fontifier.com/) via [Lifehacker](https://web.archive.org/web/20050210000000/http://www.lifehacker.com/software/productivity/your-own-handwriting-as-a-font-032705.php)

@@ -5,4 +5,4 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2005/02/wikiquote.html"
 ---
 
-I knew Wikipedia was great, but now it turns out they've launched a bunch of other sites, including my favorite, [Wikiquote](http://www.wikiquote.org). Awesome. I really want an RSS or Atom feed of their "quote of the day".
+I knew Wikipedia was great, but now it turns out they've launched a bunch of other sites, including my favorite, [Wikiquote](https://web.archive.org/web/20050211000000/http://www.wikiquote.org). Awesome. I really want an RSS or Atom feed of their "quote of the day".

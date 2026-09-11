@@ -5,7 +5,7 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2012/07/the_power_of_mu.html"
 ---
 
-[Tom Davenport](http://tomdavenport.co.uk/about) sent this email to [The Listserve](http://thelistserve.com/) (an email lottery) the other day, and I thought it was worth sharing. I'm posting this with Tom's permission.
+[Tom Davenport](https://web.archive.org/web/20120718000000/http://tomdavenport.co.uk/about) sent this email to [The Listserve](https://web.archive.org/web/20120718000000/http://thelistserve.com/) (an email lottery) the other day, and I thought it was worth sharing. I'm posting this with Tom's permission.
 
 ---
 
@@ -49,4 +49,4 @@ As for me? I'm working from home and enjoying family life in the English country
 
 Tom tells me that he's had an "amazing response" to his message, and he liked my suggestion that coordinating this with a tool like kickstarter could make a lot of sense. I look forward to seeing what actions Tom's message spur.
 
-I hope this concept spreads, because I'm a big believer of empowering kids to make music. To that end, I am also a big supporter of [Mr. Holland's Opus Foundation](http://www.mhopus.org), a wonderful group that donates musical instruments to under-funded music programs. Check them out and consider including them in your charitable giving.
+I hope this concept spreads, because I'm a big believer of empowering kids to make music. To that end, I am also a big supporter of [Mr. Holland's Opus Foundation](https://web.archive.org/web/20120718000000/http://www.mhopus.org), a wonderful group that donates musical instruments to under-funded music programs. Check them out and consider including them in your charitable giving.

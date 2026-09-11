@@ -7,4 +7,4 @@ original_url: "https://youknowjack.fivewells.com/archives/2004/11/sexy_female_ro
 
 Those crazy Japanese. You have to love them.
 
-[Japanese McDonalds ad](http://www.mcdonalds.co.jp/sales/cmlib/cm02_300.html)
+[Japanese McDonalds ad](https://web.archive.org/web/20041111000000/http://www.mcdonalds.co.jp/sales/cmlib/cm02_300.html)

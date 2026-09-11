@@ -7,7 +7,7 @@ categories:
   - "books"
 ---
 
-Back in November I read and enjoyed [The Time Traveler's Wife](http://tinyurl.com/bcvww), by Audrey Niffenegger, for a book club I'm in.
+Back in November I read and enjoyed [The Time Traveler's Wife](https://web.archive.org/web/20060129000000/http://tinyurl.com/bcvww), by Audrey Niffenegger, for a book club I'm in.
 
 Preparing for the book club meeting, I decided to prepare timelines to help me understand the book's structure, which is interesting to say the least. The main character is in love with a man who has episodes in which he travels in time. In an interview, Niffenegger said she had timelines for each character while she was writing the book, and I decided to prepare the same to understand it.
 
@@ -21,4 +21,4 @@ Clare's Timeline: [download](/ttwife/ttwife_clare.pdf)
 
 Henry's Timeline: [download](/ttwife/ttwife_henry.pdf)
 
-Please let me know if you enjoy these materials, and please suggest any revisions or suggestions by opening an issue [on Github](https://github.com/youknowjack/time-travelers-wife).
+Please let me know if you enjoy these materials, and please suggest any revisions or suggestions by opening an issue [on Github](https://web.archive.org/web/20060129000000/https://github.com/youknowjack/time-travelers-wife).

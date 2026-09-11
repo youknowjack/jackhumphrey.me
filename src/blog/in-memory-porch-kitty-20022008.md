@@ -11,4 +11,4 @@ We lost our beloved cat PK suddenly and without warning on Tuesday, January 15, 
 
 ![PK photo](http://sp9.fotologs.net/?u=jackh&i=2004/04/25/1082906245.jpg&c=f)
   
-[Nap, Interrupted Video](http://video.google.com/videoplay?docid=-2198262478578769657&hl=en)
+[Nap, Interrupted Video](https://web.archive.org/web/20080118000000/http://video.google.com/videoplay?docid=-2198262478578769657&hl=en)

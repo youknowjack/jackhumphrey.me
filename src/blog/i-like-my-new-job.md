@@ -8,7 +8,7 @@ categories:
   - "my life"
 ---
 
-So far the [new gig](https://indeed.com) is going well. Having some fun exploring the code base and getting a continuous build up and running with Hudson. Really great getting to know the team and working on ideas how I can help out.
+So far the [new gig](https://web.archive.org/web/20090426000000/https://indeed.com) is going well. Having some fun exploring the code base and getting a continuous build up and running with Hudson. Really great getting to know the team and working on ideas how I can help out.
 
 Here's my silly little riff on my company's name and the trademark saying of a certain Omar from The Wire...
 

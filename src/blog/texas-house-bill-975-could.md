@@ -5,7 +5,7 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2009/03/texas_house_bil.html"
 ---
 
-I got fired up when I [read about HB 975](http://www.khou.com/topstories/stories/khou090301_mp_drug-testing-schools.15d7d7eb.html) today, and wrote this letter to my State Rep and Senator. Feel free to reuse if you agree.
+I got fired up when I [read about HB 975](https://web.archive.org/web/20090302000000/http://www.khou.com/topstories/stories/khou090301_mp_drug-testing-schools.15d7d7eb.html) today, and wrote this letter to my State Rep and Senator. Feel free to reuse if you agree.
 
 > Please do not erode teachers' rights and dignity by voting in favor of HB 975.
 >

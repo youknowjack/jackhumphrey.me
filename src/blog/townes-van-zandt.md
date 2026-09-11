@@ -15,6 +15,6 @@ Townes, wherever you are, happy birthday, and thank you.
 
 Links:
 
-[amazon.com special order](http://www.amazon.com/exec/obidos/ASIN/B00007JGTU/fivewellsfarm?creative=327641&camp=14573&link_code=as1)
+[amazon.com special order](https://web.archive.org/web/20050308000000/http://www.amazon.com/exec/obidos/ASIN/B00007JGTU/fivewellsfarm?creative=327641&camp=14573&link_code=as1)
 
-[allmusic entry](http://www.allmusic.com/cg/amg.dll?p=amg&token=&sql=10:lf5uakok5m3l)
+[allmusic entry](https://web.archive.org/web/20050308000000/http://www.allmusic.com/cg/amg.dll?p=amg&token=&sql=10:lf5uakok5m3l)

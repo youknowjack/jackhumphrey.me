@@ -13,9 +13,9 @@ Today I was saying to myself for the 100th time, "Man, I wish I had emacs keybin
 
 See:
 
-[snarfed.org: emacs keybindings in firefox](http://snarfed.org/space/emacs+keybindings+in+firefox)
+[snarfed.org: emacs keybindings in firefox](https://web.archive.org/web/20050714000000/http://snarfed.org/space/emacs+keybindings+in+firefox)
 
-[MozillaZine: Emacs Keybindings](http://kb.mozillazine.org/Emacs_Keybindings_(Firefox))
+[MozillaZine: Emacs Keybindings](https://web.archive.org/web/20050714000000/http://kb.mozillazine.org/Emacs_Keybindings_(Firefox))
 
 I still think I might be able to write a Greasemonkey user script that would better do what I want, but for now, this will do.
 

@@ -21,4 +21,4 @@ The next morning, I hit the con floor again and picked up a few more graphic nov
 
 There's my Comic-Con report, better late than never. My iPhone pictures are here:
 
-[![](http://lh3.ggpht.com/_kSTt5iL7ybU/SmqIiwb6goE/AAAAAAAAOws/bT83ZpkFRSI/s160-c/ComicCon2009.jpg)](https://photos.neenack.com/YouKnowJack/Comic-Cons/San-Diego-Comic-Con-2009)
+[![](https://web.archive.org/web/20090802000000/http://lh3.ggpht.com/_kSTt5iL7ybU/SmqIiwb6goE/AAAAAAAAOws/bT83ZpkFRSI/s160-c/ComicCon2009.jpg)](https://photos.neenack.com/YouKnowJack/Comic-Cons/San-Diego-Comic-Con-2009)

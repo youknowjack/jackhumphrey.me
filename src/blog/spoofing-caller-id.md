@@ -5,7 +5,7 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2005/02/spoofing_caller.html"
 ---
 
-Saw this over on Neil Gaiman's [blog](http://www.neilgaiman.com/journal/journal.asp):
+Saw this over on Neil Gaiman's [blog](https://web.archive.org/web/20050207000000/http://www.neilgaiman.com/journal/journal.asp):
 
 <http://covertcall.com/>
 

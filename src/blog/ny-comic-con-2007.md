@@ -25,4 +25,4 @@ Oh, and I got Denny O'Neill's autograph. Dude created the Green Lantern. That wa
 
 Okay, now geek out with some of [the photos I took](https://photos.neenack.com/YouKnowJack/Comic-Cons/New-York-Comic-Con-2007).
 
-**Update**: Check out more about Loaded Barrel Studios and Brielle at [their web site](http://www.loadedbarrelstudios.com/).
+**Update**: Check out more about Loaded Barrel Studios and Brielle at [their web site](https://web.archive.org/web/20070225000000/http://www.loadedbarrelstudios.com/).

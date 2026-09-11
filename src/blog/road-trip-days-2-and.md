@@ -5,7 +5,7 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2009/03/road_trip_days.html"
 ---
 
-Days 2 and 3 of the road trip went well and we arrived in Austin on schedule. Amazingly, [Moovers](http://mooversinc.com) got our stuff to us at 8am the next morning (less than 96 hours after they packed and loaded everything).
+Days 2 and 3 of the road trip went well and we arrived in Austin on schedule. Amazingly, [Moovers](https://web.archive.org/web/20090315000000/http://mooversinc.com) got our stuff to us at 8am the next morning (less than 96 hours after they packed and loaded everything).
 
 Pictures:
 

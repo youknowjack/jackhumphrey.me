@@ -11,4 +11,4 @@ Love me some Venn diagrams, especially when they're this funny! Thanks, xkcd...
 
 [![The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.](http://imgs.xkcd.com/comics/geeks_and_nerds.png "The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.")](http://xkcd.com/747/)
 
-(Via [xkcd.com](http://xkcd.com/).)
+(Via [xkcd.com](https://web.archive.org/web/20100609000000/http://xkcd.com/).)

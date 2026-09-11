@@ -9,4 +9,4 @@ For some reason, I was surprised to hear that they were adapting The Decameron, 
 
 Maybe for future blog entries, I'll dig up some of my favorite Decameron stories. Or resurrect the entry I wrote for our class "Decameron Web" hypertext project.
 
-Via [Movie Poop Shoot](http://www.moviepoopshoot.com/news/feb05/64.html)
+Via [Movie Poop Shoot](https://web.archive.org/web/20050215000000/http://www.moviepoopshoot.com/news/feb05/64.html)

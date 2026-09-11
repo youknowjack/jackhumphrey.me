@@ -16,4 +16,4 @@ Newly-launched online music store MP3Tunes is a better music shopping alternativ
 
 The only drawback *might* be selection of tunes available, but that depends on your musical tastes. If you're looking to purchase a song online, check MP3Tunes first.
 
-[MP3Tunes](http://www.mp3tunes.com/) [via [BoingBoing](http://www.boingboing.net/2005/02/09/mp3tunescom_take_you.html)]
+[MP3Tunes](https://web.archive.org/web/20050210000000/http://www.mp3tunes.com/) [via [BoingBoing](https://web.archive.org/web/20050210000000/http://www.boingboing.net/2005/02/09/mp3tunescom_take_you.html)]

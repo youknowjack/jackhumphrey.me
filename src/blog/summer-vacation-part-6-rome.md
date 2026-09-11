@@ -11,8 +11,8 @@ After the exhausting day at the Vatican, we took a slower pace for the remaining
 
 Pictures:
 
-[![](http://lh5.google.com/leejack/ROFOf_PVABE/AAAAAAAAA3s/CIHn4yqif14/Rome.jpg?crop=1&imgmax=160)](http://picasaweb.google.com/leejack/Rome)
+[![](https://web.archive.org/web/20060822000000/http://lh5.google.com/leejack/ROFOf_PVABE/AAAAAAAAA3s/CIHn4yqif14/Rome.jpg?crop=1&imgmax=160)](http://picasaweb.google.com/leejack/Rome)
 
-[Rome](http://picasaweb.google.com/leejack/Rome)
+[Rome](https://web.archive.org/web/20060822000000/http://picasaweb.google.com/leejack/Rome)
 
 Aug 11, 2006 - 86 Photos

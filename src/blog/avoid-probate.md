@@ -10,4 +10,4 @@ categories:
 Here's another of my 14th St Subway Sculpture photos. I'll be posting more...
 
 ![](http://lh5.google.com/image/leejack/RWxZWSZbABI/AAAAAAAABhw/1PVOr14BPdo/s288/11172006%28012%29.jpg)  
-*From [fotolog](http://picasaweb.google.com/leejack/Fotolog)*
+*From [fotolog](https://web.archive.org/web/20061128000000/http://picasaweb.google.com/leejack/Fotolog)*
