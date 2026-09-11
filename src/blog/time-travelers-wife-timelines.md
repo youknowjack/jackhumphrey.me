@@ -15,12 +15,10 @@ Don't look at these timelines unless you've read the book -- spoilers abound!
 
 Each timeline is in PDF format:
 
-Chronological Timeline: [download](http://fivewells.com/ttwife/ttwife_time.pdf) | [view online](https://docs.google.com/fileview?id=1dA4F1Sy7wzT8mYyM-HJTORzsW9I3OUx9zo6viLe2pfsxafQUOdo6ovtkTowZ&hl=en)
+Chronological Timeline: [download](/ttwife/ttwife_time.pdf)
 
-Clare's Timeline: [download](http://fivewells.com/ttwife/ttwife_clare.pdf) | [view online](https://docs.google.com/fileview?id=1L9hqHURnSXiLsp1BFv3TzE1uHJ2sH1f6hT_3qGQUk53Jw4VxzHt0D7CeDsQx&hl=en)
+Clare's Timeline: [download](/ttwife/ttwife_clare.pdf)
 
-Henry's Timeline: [download](http://fivewells.com/ttwife/ttwife_henry.pdf) | [view online](https://docs.google.com/fileview?id=1sPZfGmxlgqQPTY3M6j0RIM5Tmouo15xMRhPBPVzlgVU7cCty9j26HNmuqgWA&hl=en)
+Henry's Timeline: [download](/ttwife/ttwife_henry.pdf)
 
-Please let me know if you enjoy these materials, and please suggest any revisions or suggestions by commenting on this blog post or emailing <ttwife *at* fivewells.com>.
-
-**EDIT 2010/09/08:** Added links to view timelines online in Google Docs.
+Please let me know if you enjoy these materials, and please suggest any revisions or suggestions by opening an issue [on Github](https://github.com/youknowjack/time-travelers-wife).

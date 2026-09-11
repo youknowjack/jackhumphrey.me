@@ -4,6 +4,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("src/audio");
+  eleventyConfig.addPassthroughCopy("src/ttwife");
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format || "MMMM d, yyyy");
@@ -11,6 +12,10 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection("posts", function(collectionApi) {
     return collectionApi.getFilteredByGlob("src/blog/*.md").sort((a, b) => b.date - a.date);
+  });
+
+  eleventyConfig.addFilter("dirUrl", function(url) {
+    return url.substring(0, url.lastIndexOf("/") + 1);
   });
 
   eleventyConfig.addFilter("getPrevNext", function(collection, currentUrl) {
