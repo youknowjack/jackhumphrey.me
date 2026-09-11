@@ -7,6 +7,8 @@ categories:
   - "geek fodder"
 ---
 
+<a href="https://photos.neenack.com/YouKnowJack/Comic-Cons/New-York-Comic-Con-2007"><img src="https://photos.smugmug.com/YouKnowJack/Comic-Cons/New-York-Comic-Con-2007/i-33Bq56J/0/KMM2mzFBzp5HncvRKPbw5cGCsBw34bbp83fT2r876/S/DSC_0282-S.jpg" alt="NY Comic Con 2007" style="float:left; margin: 0 1em 1em 0;"></a>
+
 I attended the NY Comic Con on Friday and Saturday this weekend. Had a good time despite the crowds.
 
 Highlights:
@@ -21,9 +23,6 @@ Finds: autographed Dazzler #1, autographed Jae Lee Inhumans #1, and some other c
 
 Oh, and I got Denny O'Neill's autograph. Dude created the Green Lantern. That was exciting.
 
-Okay, now geek out with some of the photos I took (click on the photo to see the full album on picasaweb):
-
-![](http://lh4.google.com/image/leejack/ReEGI1ZrsgI/AAAAAAAACIw/i8-ib8rpvk8/s288/DSC_0282.JPG)  
-*From [NY Comic Con ...](http://picasaweb.google.com/leejack/NYComicCon2007)*
+Okay, now geek out with some of [the photos I took](https://photos.neenack.com/YouKnowJack/Comic-Cons/New-York-Comic-Con-2007).
 
 **Update**: Check out more about Loaded Barrel Studios and Brielle at [their web site](http://www.loadedbarrelstudios.com/).

@@ -1,5 +1,5 @@
 ---
-title: "NY Comic Con"
+title: "NY Comic Con 2006"
 date: 2006-03-02
 layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2006/03/ny_comic_con.html"
