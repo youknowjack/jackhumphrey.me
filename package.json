@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "eleventy",
-    "serve": "eleventy --serve"
+    "serve": "eleventy --serve",
+    "deploy": "eleventy && rsync -avz _site/ ls-deb12-1:/var/www/me/"
   },
   "type": "commonjs",
   "devDependencies": {

@@ -5,4 +5,4 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2005/01/dreamy_bill_gat.html"
 ---
 
-<http://blog.monkeymethods.org/2005/01/bill-gates-strikes-pose-for-teen-beat.html>
+[blog.monkeymethods.org](https://web.archive.org/web/20050119023345/http://blog.monkeymethods.org/2005/01/bill-gates-strikes-pose-for-teen-beat.html)

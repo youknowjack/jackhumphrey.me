@@ -9,6 +9,4 @@ categories:
 
 This blog has officially been taken over by Buster Kitten. Enjoy.
 
-<http://picasaweb.google.com/s/c/bin/slideshow.swf>
-
-![](http://lh5.ggpht.com/leejack/SGXptRW_pkE/AAAAAAAAG94/U_D-fyjpiHg/s160-c/BusterWeek2.jpg)
+[![Buster Week 2](https://photos.smugmug.com/YouKnowJack/Cats/i-QZmf6tt/0/LJWqcg4FSS3XDztrHLvXVhzwLZFjcxHgTXtrhQh6R/M/BusterWeek2-M.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-QZmf6tt/A)

@@ -16,5 +16,5 @@ I often noodle around on my guitars, and I've started using Garage Band to recor
 
 Mellow Way (0:30) — [download](/audio/Mellow-Way.mp3)
 
-[![Creative Commons License](https://web.archive.org/web/20080810000000/http://creativecommons.org/images/public/somerights20.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)  
-Mellow Way by [Jack Humphrey](http://jackhumphrey.me) is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License](https://web.archive.org/web/20080810000000/http://creativecommons.org/licenses/by-nc-sa/3.0/us/).  
+[![Creative Commons License](http://creativecommons.org/images/public/somerights20.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/us/)  
+Mellow Way by [Jack Humphrey](http://jackhumphrey.me) is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).  

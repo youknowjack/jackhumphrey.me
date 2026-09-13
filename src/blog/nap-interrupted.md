@@ -9,4 +9,6 @@ categories:
 
 Alright, perhaps this is a new low for me, posting a home video of my cat. But I'll claim some geek privilege, since it's one of the first videos I shot with my new toy (the amazing Nokia E70 phone).
 
-<http://video.google.com/googleplayer.swf?docId=-2198262478578769657>
+<video controls width="320" height="240" poster="https://photos.smugmug.com/YouKnowJack/Cats/i-8dHJM4n/0/MGBQ9WxZf7Mxk94bfRmkQnmf397WqksdrvKnBLmpg/M/07252006-M.jpg" style="max-width:100%;">
+  <source src="https://photos.smugmug.com/YouKnowJack/Cats/i-wHn5K4Z/0/MztNbDztxrS8dmprhTfbgNW5zd2zJB5HMgxmRdkR7/1280/07252006-1280.mp4" type="video/mp4">
+</video>

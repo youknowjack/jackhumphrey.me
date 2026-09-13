@@ -9,4 +9,6 @@ categories:
 
 Our new kitten comes home tomorrow. Here are some pictures I snapped at the SPCA in Long Beach. He's the tuxedo kitten. Yay!
 
-![](http://lh3.ggpht.com/leejack/SEzCRAzvzWE/AAAAAAAAGls/_4X_YTOrtLQ/s160-c/NewKitten.jpg)
+[![New kitten](https://photos.smugmug.com/YouKnowJack/Cats/i-qCb9J7s/0/M4Vvv4tvbVzRJxNwkbWwgw7PjnJqr24cXBzhrKdjL/L/IMG_0220-L.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-qCb9J7s/A)
+
+[![New kitten](https://photos.smugmug.com/YouKnowJack/Cats/i-vDK3h6L/0/NgJsmLFCsDXsLdS2vcQkpC4Vdm9R8XQwtHBfCvfFh/L/IMG_0222-L.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-vDK3h6L/A)

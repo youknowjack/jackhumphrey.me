@@ -7,7 +7,7 @@ original_url: "https://youknowjack.fivewells.com/archives/2005/02/spoofing_calle
 
 Saw this over on Neil Gaiman's [blog](https://web.archive.org/web/20050207000000/http://www.neilgaiman.com/journal/journal.asp):
 
-<http://covertcall.com/>
+[covertcall.com](https://web.archive.org/web/20050207005036/http://covertcall.com/)
 
 I had no idea there were services that offered this functionality. Will be interesting to see if the phone companies manage to shut them down.
 

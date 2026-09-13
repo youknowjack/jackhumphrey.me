@@ -7,7 +7,6 @@ categories:
   - "photos"
 ---
 
-Here's another of my 14th St Subway Sculpture photos. I'll be posting more...
+Here's another of my 14th St Subway Sculpture photos. I'll be [posting more...](https://photos.neenack.com/YouKnowJack/Subway-Sculptures)
 
-![](http://lh5.google.com/image/leejack/RWxZWSZbABI/AAAAAAAABhw/1PVOr14BPdo/s288/11172006%28012%29.jpg)  
-*From [fotolog](https://web.archive.org/web/20061128000000/http://picasaweb.google.com/leejack/Fotolog)*
+[![Avoid Probate](https://photos.smugmug.com/YouKnowJack/Subway-Sculptures/i-HFbdgQK/0/KJWFrX4n8SPWxP37RWdXg2nZjcSVZjCpz2KHwmXGW/L/11172006%28012%29-L.jpg)](https://photos.neenack.com/YouKnowJack/Subway-Sculptures/i-HFbdgQK/A)

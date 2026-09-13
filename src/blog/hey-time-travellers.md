@@ -7,6 +7,6 @@ original_url: "https://youknowjack.fivewells.com/archives/2005/05/hey_time_trave
 
 Mark your calendars!
 
-<http://web.mit.edu/adorai/timetraveler/>
+[http://web.mit.edu/adorai/timetraveler/](https://web.archive.org/web/20050426103303/http://web.mit.edu/adorai/timetraveler/)
 
 (Man, I'd hate to see a time traveller's calendar. Talk about confusing...)

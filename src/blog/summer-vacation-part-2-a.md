@@ -11,8 +11,6 @@ We spent a day in London before heading on to Italy. It was our first visit so w
 
 Pictures:
 
-[![](https://web.archive.org/web/20060822000000/http://lh3.google.com/leejack/ROMlSgCqABE/AAAAAAAABCM/NHOrtzPg0Ac/London.jpg?crop=1&imgmax=160)](http://picasaweb.google.com/leejack/London)
+[![London 2006](https://photos.smugmug.com/YouKnowJack/London-2006/i-xwKSdnr/0/Ks3VGsBPQ8qDNqKHPctrprX8WMDtxSfbJVZjWfcjc/L/DSCN1722-2-L.jpg)](https://photos.neenack.com/YouKnowJack/London-2006)
 
-[London](https://web.archive.org/web/20060822000000/http://picasaweb.google.com/leejack/London)
-
-Aug 5, 2006 - 46 Photos
+[London](https://photos.neenack.com/YouKnowJack/London-2006)

@@ -11,8 +11,6 @@ We flew from London to Rome on Ryan Air, then we rented a car and drove down to 
 
 Pictures:
 
-[![](https://web.archive.org/web/20060822000000/http://lh3.google.com/leejack/ROp4EYE0ABE/AAAAAAAABNM/oMJaY8WkDO8/Positano.jpg?crop=1&imgmax=160)](http://picasaweb.google.com/leejack/Positano)
+[![Positano 2006](https://photos.smugmug.com/YouKnowJack/Italy-2006-Positano/i-vrfTmTG/0/KfwvbK72XWJ6PR7Km7293cMBWDjx8MrD7xC8Ms2Xk/L/DSCN1830-L.jpg)](https://photos.neenack.com/YouKnowJack/Italy-2006-Positano)
 
-[Positano](https://web.archive.org/web/20060822000000/http://picasaweb.google.com/leejack/Positano)
-
-Aug 6, 2006 - 35 Photos
+[Positano](https://photos.neenack.com/YouKnowJack/Italy-2006-Positano)

@@ -5,4 +5,4 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2004/12/ask_google.html"
 ---
 
-<http://www.shinyfire.com/feats/google/google.htm>
+[shinyfire.com](https://web.archive.org/web/20041218030632/http://www.shinyfire.com/feats/google/google.htm)

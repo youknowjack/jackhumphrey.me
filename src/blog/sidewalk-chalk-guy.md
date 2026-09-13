@@ -7,6 +7,6 @@ original_url: "https://youknowjack.fivewells.com/archives/2005/02/sidewalk_chalk
 
 These images are pretty amazing...
 
-[sidewalk chalk guy](http://gprime.net/images/sidewalkchalkguy/ "sidewalk chalk guy")
+[sidewalk chalk guy](https://web.archive.org/web/20050224040632/http://gprime.net/images/sidewalkchalkguy/ "sidewalk chalk guy")
 
 Anyone know more about this artist?

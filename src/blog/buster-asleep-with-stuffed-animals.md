@@ -9,6 +9,6 @@ categories:
 
 A low-quality cell phone cam picture, but still:
 
-[![](https://web.archive.org/web/20080716000000/http://lh6.ggpht.com/leejack/SH7iu2scFhI/AAAAAAAAHBo/hTkJ3XSxPY4/s288/BusterAsleepWithStuffedAnimals.jpg)](http://picasaweb.google.com/leejack/BusterAsleepWithUglyDollAndKogepan/photo?authkey=OT-IDH4wOdE#5223861912380118546)
+[![Buster Asleep With Stuffed Animals](https://photos.smugmug.com/YouKnowJack/Cats/i-MNTR2x4/0/LBQWfrxH8sSCJC2mLz3LXWtJRtd3MrW4F4VLXRLbR/S/BusterAsleepWithStuffedAnimals-S.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-MNTR2x4/A)
 
 Super cute!

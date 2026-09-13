@@ -7,4 +7,4 @@ categories:
   - "my life"
 ---
 
-[![](https://web.archive.org/web/20070530000000/http://lh3.google.com/image/leejack/Rl1qDNrxhwI/AAAAAAAACUs/SBU91YlT7Rg/s400/DSC_0374.JPG)](http://picasaweb.google.com/leejack/May242007/photo#5070325358934460162)
+[![Happy Birthday](https://photos.smugmug.com/YouKnowJack/May-2007/i-8PCq7FC/0/NdbQbJSFWtB7xzqgkhz5DnNTgdkjhpFcsdzJtz2hn/L/DSC_0374-L.jpg)](https://photos.neenack.com/YouKnowJack/May-2007/i-8PCq7FC/A)

@@ -11,8 +11,6 @@ On our way back from Positano to Rome, we stopped for a few hours at the ruins o
 
 Pictures:
 
-[![](https://web.archive.org/web/20060822000000/http://lh3.google.com/leejack/ROCQ1IpfABE/AAAAAAAAA5Y/vcPyoIzVzMc/Pompei.jpg?crop=1&imgmax=160)](http://picasaweb.google.com/leejack/Pompei)
+[![Pompei 2006](https://photos.smugmug.com/YouKnowJack/Italy-2006-Pompei/i-mkkBcBx/0/MsfX3q56wm9WvnvNZVrHHGrxLG6gFXNcV5bVgmWKN/L/0300002873147619902675081943613-L.jpg)](https://photos.neenack.com/YouKnowJack/Italy-2006-Pompei)
 
-[Pompei](https://web.archive.org/web/20060822000000/http://picasaweb.google.com/leejack/Pompei)
-
-Aug 9, 2006 - 39 Photos
+[Pompei](https://photos.neenack.com/YouKnowJack/Italy-2006-Pompei)

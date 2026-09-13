@@ -1,6 +1,6 @@
 ---
 title: "Road Trip Report, Day 1"
-date: 2006-01-04
+date: 2006-01-04T00:00:00
 layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2006/01/road_trip_repor.html"
 categories:

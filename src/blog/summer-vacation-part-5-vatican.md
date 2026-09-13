@@ -11,8 +11,6 @@ Back in Rome for a few days to finish out the vacation, our first stop was the V
 
 Pictures:
 
-[![](https://web.archive.org/web/20060822000000/http://lh5.google.com/leejack/ROFJvaUjABE/AAAAAAAAAtU/E3LzmTBBvcs/Vatican.jpg?crop=1&imgmax=160)](http://picasaweb.google.com/leejack/Vatican)
+[![Vatican 2006](https://photos.smugmug.com/YouKnowJack/Italy-2006-Vatican/i-xmWDRTp/0/MqRfJB2Vh7dtDgP4B5c8BDvjxBb7xHwLZS4LVKB9M/L/0300002873147619902675081943757-L.jpg)](https://photos.neenack.com/YouKnowJack/Italy-2006-Vatican)
 
-[Vatican](https://web.archive.org/web/20060822000000/http://picasaweb.google.com/leejack/Vatican)
-
-Aug 10, 2006 - 28 Photos
+[Vatican](https://photos.neenack.com/YouKnowJack/Italy-2006-Vatican)

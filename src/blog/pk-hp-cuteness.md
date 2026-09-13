@@ -5,10 +5,6 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2007/08/pk_hp_cuteness.html"
 ---
 
-[![](https://web.archive.org/web/20070820000000/http://farm2.static.flickr.com/1154/1177809097_60490ca4b8_m.jpg)](http://www.flickr.com/photos/leejack/1177809097/ "photo sharing")
-
-[DSC\_0018](https://web.archive.org/web/20070820000000/http://www.flickr.com/photos/leejack/1177809097/)
-
-Originally uploaded by [jackh](https://web.archive.org/web/20070820000000/http://www.flickr.com/people/leejack/)
+[![PK with Harry Potter book](https://photos.smugmug.com/YouKnowJack/Cats/i-PshXrdL/0/NfFfKTH23wmsFt5zhmLzKt2bQxv6HnCpbN4z9Lc4J/L/1177809097_5f177a2499_o-L.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-PshXrdL/A)
 
 That PK, he's a voracious reader. So it's only right he have his picture in the "cats and books" group on Flickr...

@@ -9,6 +9,4 @@ categories:
 
 Another Buster slide show for ya:
 
-<http://picasaweb.google.com/s/c/bin/slideshow.swf>
-
-![](http://lh5.ggpht.com/leejack/SFiZbY0EZnE/AAAAAAAAG0w/sgkW8W_d4yY/s160-c/MoreBuster.jpg)
+[![More Buster](https://photos.smugmug.com/YouKnowJack/Cats/i-C352f4c/0/K8Jc6d8kpJvLXQ864HXBzGmgz8wThXtKwNChvvt8N/M/MoreBuster-M.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-C352f4c/A)

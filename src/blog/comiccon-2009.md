@@ -19,6 +19,6 @@ I'm sure there's many other tidbits that are now lost to my memory. It was a fun
 
 The next morning, I hit the con floor again and picked up a few more graphic novels, including a couple by Jeffrey Brown, who I had not read before and of whom I am now a big fan. Then it was off to the airport to catch my flight home, which was terrifying because of a bad storm in DFW. We experienced a very turbulent descent into DFW, and the landing was aborted at what must have been the last possible minute (I could see the runway below us). The silver lining for me is that the plane was re-routed to Austin to wait out the storm, so I got home more or less on time.
 
-There's my Comic-Con report, better late than never. My iPhone pictures are here:
+There's my Comic-Con report, better late than never. My iPhone [pictures](https://photos.neenack.com/YouKnowJack/Comic-Cons/San-Diego-Comic-Con-2009) are here:
 
 [![](https://web.archive.org/web/20090802000000/http://lh3.ggpht.com/_kSTt5iL7ybU/SmqIiwb6goE/AAAAAAAAOws/bT83ZpkFRSI/s160-c/ComicCon2009.jpg)](https://photos.neenack.com/YouKnowJack/Comic-Cons/San-Diego-Comic-Con-2009)

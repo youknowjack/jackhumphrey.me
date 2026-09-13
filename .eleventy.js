@@ -10,6 +10,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/*.png");
   eleventyConfig.addPassthroughCopy("src/talks");
   eleventyConfig.addPassthroughCopy("src/ttwife");
+  eleventyConfig.addPassthroughCopy("src/media");
 
   eleventyConfig.addFilter("date", (dateObj, format) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format || "MMMM d, yyyy");
