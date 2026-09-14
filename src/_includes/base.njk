@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% if title %}{{ title }} — {% endif %}You Know Jack</title>
   <link rel="stylesheet" href="/css/style.css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y69DVC5EG5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Y69DVC5EG5');
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -25,5 +33,6 @@
       &copy; Jack Humphrey. Built with <a href="https://www.11ty.dev/">Eleventy</a>.
     </div>
   </footer>
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f46a604b1cbc46649602f9f9ab276bb2"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
