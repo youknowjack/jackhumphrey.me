@@ -5,5 +5,4 @@ layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2009/04/fridge_poem_whe.html"
 ---
 
-![](http://lh4.ggpht.com/_kSTt5iL7ybU/SdmIZUnhsVI/AAAAAAAANJs/9o0ooBbBNeo/s400/DSC_0011.JPG)  
-*From [Fridge Poetry By Jack](https://web.archive.org/web/20090405000000/http://picasaweb.google.com/leejack/FridgePoetryByJack?feat=embedwebsite)*
+[![Fridge poem](https://photos.smugmug.com/YouKnowJack/Fridge-Poetry/i-nCb5Jpp/0/NGrh6DznwLW57P35wdGGSHKKtHv7XHTmf8RT23Dng/L/DSC_0011-L.jpg)](https://photos.neenack.com/YouKnowJack/Fridge-Poetry/i-nCb5Jpp/A)

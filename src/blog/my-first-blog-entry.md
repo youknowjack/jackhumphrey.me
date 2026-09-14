@@ -37,16 +37,12 @@ There it is, Jack's first blog entry. Now: [make your own version](https://jackh
 
 Here are scans of the booklet:
 
-[![](https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-v3hrFpN/0/MMZV3tCHshxKLWFFzNFgcDr4dRfD9rqnk3d82sQ9x/Th/aamcover-Th.jpg)](https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-v3hrFpN)
-
-[![](https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-N7h6F3n/0/K3fqSrnRJp8BgVPzk2cvfPQkR8KcNLRdSF2Psf7VB/Th/aam1_text-Th.jpg)](https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-N7h6F3n)
-
-[![](https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-T9f8WLT/0/MXqbGvnJk8LP2LzwjMWtXwrBfcM6nt7J8vgwMfSwv/Th/aam2_bday-Th.jpg)](https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-T9f8WLT)
-
-[![](https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-7jspbqP/0/M8nZkcQgzDCHWZG5sVRk2HxsRC46wp3zvgWWN9CTP/Th/aam3_self-Th.jpg)](https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-7jspbqP)
-
-[![](https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-xk98nxc/0/KLxrTb3fX3RCQqK7D3f4SssWM4n4x7thZktJ4fKrz/Th/aam4_hands-Th.jpg)](https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-xk98nxc)
-
-[![](https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-wqc4q75/0/LH9p5FdCBQNwkwP958s28KMTCWPNcTCmvQWrCLV83/Th/aam5_feet-Th.jpg)](https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-wqc4q75)
-
-[![](https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-pvjxkKX/0/LNk4577skCRwGxxdZq8p5SKK75GBcxtPJFv5Z9r5N/Th/aam6_family-Th.jpg)](https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-pvjxkKX)
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin:1rem 0;">
+<a href="https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-v3hrFpN/A"><img src="https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-v3hrFpN/0/Lx2jfgKwqv7CWG3SFT2sJN887JsxGXc85FNk5d9RF/M/aamcover-M.jpg" style="height:220px;width:auto;max-width:100%;"></a>
+<a href="https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-N7h6F3n/A"><img src="https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-N7h6F3n/0/LC7cRz73FZx2GWMB22GSnsDNZh9sVGCTv3vL6dX8T/M/aam1_text-M.jpg" style="height:220px;width:auto;max-width:100%;"></a>
+<a href="https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-T9f8WLT/A"><img src="https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-T9f8WLT/0/KWCZdncm22xWbm4F3qR7F877Tfc7TZLDsP9LwVQzn/M/aam2_bday-M.jpg" style="height:220px;width:auto;max-width:100%;"></a>
+<a href="https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-7jspbqP/A"><img src="https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-7jspbqP/0/Mf8h5G8kD93vCTMTD3NP34X8NwGqQVpP6wpwLzkj8/M/aam3_self-M.jpg" style="height:220px;width:auto;max-width:100%;"></a>
+<a href="https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-xk98nxc/A"><img src="https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-xk98nxc/0/K9qc37jz6PTC3KsjB3GBxRvwZn3HhnZHXGP2jhhvT/M/aam4_hands-M.jpg" style="height:220px;width:auto;max-width:100%;"></a>
+<a href="https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-wqc4q75/A"><img src="https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-wqc4q75/0/Kwd2MqjXptL8gtxCVs7q96bVqDqz4tLP7GRV2HdNZ/M/aam5_feet-M.jpg" style="height:220px;width:auto;max-width:100%;"></a>
+<a href="https://photos.neenack.com/YouKnowJack/Picture-1000-words/i-pvjxkKX/A"><img src="https://photos.smugmug.com/YouKnowJack/Picture-1000-words/i-pvjxkKX/0/NXtSVmnR4WSvB74NJBNmVsnjjhwh5NcLPRxc2tSCH/M/aam6_family-M.jpg" style="height:220px;width:auto;max-width:100%;"></a>
+</div>

@@ -20,3 +20,7 @@ We lost our beloved cat PK suddenly and without warning on Tuesday, January 15, 
 [![PK photo](https://photos.smugmug.com/YouKnowJack/Cats/i-FxjkSbb/0/MX7C7grjCMntjTgV8JSLVWfHjPwtF2kRScgcHkvk3/S/1098074761_f-S.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-FxjkSbb/A)
 
 [![PK photo](https://photos.smugmug.com/YouKnowJack/Cats/i-Bp9cvc4/0/MqNPPps94KVdQR39FPsbZ3H84T4XGqBTb3f7jX8f5/S/1098139920_f-S.jpg)](https://photos.neenack.com/YouKnowJack/Cats/i-Bp9cvc4/A)
+
+<video controls width="320" height="240" poster="https://photos.smugmug.com/YouKnowJack/Cats/i-8dHJM4n/0/MGBQ9WxZf7Mxk94bfRmkQnmf397WqksdrvKnBLmpg/M/07252006-M.jpg" style="max-width:100%;">
+  <source src="https://photos.smugmug.com/YouKnowJack/Cats/i-wHn5K4Z/0/MztNbDztxrS8dmprhTfbgNW5zd2zJB5HMgxmRdkR7/1280/07252006-1280.mp4" type="video/mp4">
+</video>
