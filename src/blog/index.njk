@@ -6,6 +6,13 @@ title: You Know Jack
 {% if collections.posts.length %}
 <ul class="post-list">
   {% for post in collections.posts %}
+  {% if not loop.first %}
+    {% set prevPost = collections.posts[loop.index - 2] %}
+    {% set yearGap = (prevPost.date | date("yyyy")) | int - (post.date | date("yyyy")) | int %}
+    {% if yearGap > 5 %}
+    <li class="post-gap">🦗 <em>crickets</em> ({{ (post.date | date("yyyy")) | int + 1 }}–{{ (prevPost.date | date("yyyy")) | int - 1 }}) 🦗</li>
+    {% endif %}
+  {% endif %}
   <li class="post-item">
     <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
     <p class="post-meta">{{ post.date | date("MMMM d, yyyy") }}</p>

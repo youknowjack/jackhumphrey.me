@@ -155,6 +155,15 @@ p  { margin-bottom: 1.1rem; }
   text-decoration: none;
 }
 
+.post-gap {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+  color: var(--meta);
+  font-size: 1.35rem;
+  letter-spacing: 0.03em;
+}
+
 .post-meta {
   font-size: 0.8rem;
   color: var(--muted);
