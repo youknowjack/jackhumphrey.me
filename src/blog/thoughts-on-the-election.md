@@ -1,6 +1,6 @@
 ---
 title: "thoughts on the election"
-date: 2004-11-09
+date: 2004-11-09T18:00:00
 layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2004/11/thoughts_on_the.html"
 ---

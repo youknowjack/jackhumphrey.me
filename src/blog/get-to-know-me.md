@@ -1,6 +1,6 @@
 ---
 title: "Get to know me"
-date: 2004-11-09
+date: 2004-11-09T06:00:00
 layout: post.njk
 original_url: "https://youknowjack.fivewells.com/archives/2004/11/get_to_know_me.html"
 ---
